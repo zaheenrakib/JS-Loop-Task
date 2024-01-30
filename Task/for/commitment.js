@@ -1,6 +1,3 @@
- let messages = 0;
-
- while(messages <= 60){
-    console.log("I Love Allah",messages);
-    messages++;
+ for (i = 0; i <= 60; i++){
+   console.log(" I love Alllah",i);
  }
